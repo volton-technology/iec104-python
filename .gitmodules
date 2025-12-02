@@ -1,6 +1,7 @@
 [submodule "depends/lib60870"]
 	path = depends/lib60870
-	url = https://github.com/m-unkel/lib60870.git
+	url = ssh://git@github.com/volton-technology/lib60870.git
+	branch = volton
 	update = rebase
 	ignore = all
 [submodule "depends/pybind11"]
