@@ -1,6 +1,6 @@
 [submodule "depends/lib60870"]
 	path = depends/lib60870
-	url = ssh://git@github.com/volton-technology/lib60870.git
+	url = https://github.com/volton-technology/lib60870.git
 	branch = volton
 	update = rebase
 	ignore = all
